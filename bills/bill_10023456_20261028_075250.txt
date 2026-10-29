@@ -1,0 +1,24 @@
+===========================================
+       VOLTEASE ELECTRICITY BILL
+===========================================
+Date             : 2026-10-28 07:52:35
+Consumer Number  : 10023456
+Consumer Name    : Bharathi
+Previous Reading : 2000
+Current Reading  : 2500
+Units Consumed   : 500 kWh
+-------------------------------------------
+ENERGY CHARGE BREAKDOWN
+Slab 1: 100 units x Rs.2.00 = Rs.200.00
+Slab 2: 100 units x Rs.3.00 = Rs.300.00
+Slab 3: 100 units x Rs.5.00 = Rs.500.00
+Slab 4: 200 units x Rs.7.00 = Rs.1400.00
+-------------------------------------------
+Energy Charges   : Rs. 2400.00
+Fixed Charges    : Rs. 75.00
+Other Charges    : Rs. 25.00
+===========================================
+TOTAL BILL       : Rs. 2500.00
+===========================================
+
+Note: Academic demonstration rates only.
